@@ -1,4 +1,4 @@
-name: rclone
+name: sscotth-rc-test
 version: 1.37
 summary: rsync for cloud storage
 description:
