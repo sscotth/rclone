@@ -14,7 +14,7 @@ apps:
 
 parts:
   rclone:
-    plugin: make
+    plugin: go
     source: https://github.com/ncw/rclone
     source-tag: v1.37
     source-type: git
